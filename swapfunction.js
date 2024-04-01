@@ -5,7 +5,7 @@ function swapCase(str) {
       } else {
         return char.toUpperCase();
       }
+      //used to join the strings
     }).join('');
 }
-
-console.log(swapCase('The Quick Brown Fox'))
+console.log(swapCase('Deee is Fine'))
