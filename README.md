@@ -1,4 +1,4 @@
-##phase 1 wk2 friday function and arrays
+## phase 1 wk2 friday function and arrays
 ### Week 2 function and arrays This repository contains solutions for Week 2 functions and arrays problems, implemented in JavaScript.
 
 ## Challenge 1: Swap Case String
